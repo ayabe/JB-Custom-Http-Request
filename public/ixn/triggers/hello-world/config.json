@@ -2,7 +2,7 @@
     "key": "jb-hello-world-trigger-kayabe",
     "lang": {
         "en-US": {
-            "name": "Hello World 2",
+            "name": "Hello World",
             "description": "This is a simple trigger for the Hello World demo app"
         }
     },

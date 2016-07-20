@@ -26,7 +26,7 @@
        }
    },
    "configurationArguments": {
-       "applicationExtensionKey": "{{KEY}}",
+       "applicationExtensionKey": "jb-hello-world-activity-kayabe",
        "save": {
            "url": "https://murmuring-sierra-25914.herokuapp.com/ixn/activities/hello-world/save",
 		   "verb": "POST",

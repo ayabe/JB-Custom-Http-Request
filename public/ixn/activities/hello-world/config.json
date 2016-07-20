@@ -17,7 +17,7 @@
        "execute": {
            "inArguments": [{ "eventData":"{{Context.PublicationId}}"}],
            "outArguments": [],
-           "url": "https://murmuring-sierra-25914.herokuapp.com/ixn/activities/hello-world/execute",
+           "url": "https://jb-http-request.herokuapp.com/ixn/activities/hello-world/execute",
 		   "verb": "POST",
 		   "body": "",
             "format": "json",
@@ -28,21 +28,21 @@
    "configurationArguments": {
        "applicationExtensionKey": "jb-hello-world-activity-kayabe",
        "save": {
-           "url": "https://murmuring-sierra-25914.herokuapp.com/ixn/activities/hello-world/save",
+           "url": "https://jb-http-request.herokuapp.com/ixn/activities/hello-world/save",
 		   "verb": "POST",
 			"body": "",
             "format": "json",
             "useJwt": false
        },
        "publish": {
-           "url": "https://murmuring-sierra-25914.herokuapp.com/ixn/activities/hello-world/publish",
+           "url": "https://jb-http-request.herokuapp.com/ixn/activities/hello-world/publish",
 		   "verb": "POST",
 			"body": "",
             "format": "json",
             "useJwt": false
        },
        "validate": {
-           "url": "https://murmuring-sierra-25914.herokuapp.com/ixn/activities/hello-world/validate",
+           "url": "https://jb-http-request.herokuapp.com/ixn/activities/hello-world/validate",
 		   "verb": "POST",
 			"body": "",
             "format": "json",
@@ -50,7 +50,7 @@
        }
    },
    "edit": {
-		"url": "https://murmuring-sierra-25914.herokuapp.com/ixn/activities/hello-world/",
+		"url": "https://jb-http-request.herokuapp.com/ixn/activities/hello-world/",
 		"height": 400,
 		"width": 500
 	}
